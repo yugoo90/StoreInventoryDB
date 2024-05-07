@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2c44872327d99af75625.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "StoreInventory",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "StoreInventory::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StoreInventory-Debug-7b9546bbe4f9ac49067f.json",
+					"name" : "StoreInventory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StoreInventory_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StoreInventory_autogen-Debug-e27c63a26c9455dd1158.json",
+					"name" : "StoreInventory_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StoreInventory_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StoreInventory_autogen_timestamp_deps-Debug-80303f2f5c35fc9d0df3.json",
+					"name" : "StoreInventory_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/yugoo90/Repos/StoreInventoryDB/build",
+		"source" : "C:/Users/yugoo90/Repos/StoreInventoryDB"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

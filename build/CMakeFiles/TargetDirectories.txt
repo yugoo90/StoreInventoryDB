@@ -1,0 +1,9 @@
+C:/Users/yugoo90/Repos/StoreInventoryDB/build/CMakeFiles/StoreInventory.dir
+C:/Users/yugoo90/Repos/StoreInventoryDB/build/CMakeFiles/edit_cache.dir
+C:/Users/yugoo90/Repos/StoreInventoryDB/build/CMakeFiles/rebuild_cache.dir
+C:/Users/yugoo90/Repos/StoreInventoryDB/build/CMakeFiles/list_install_components.dir
+C:/Users/yugoo90/Repos/StoreInventoryDB/build/CMakeFiles/install.dir
+C:/Users/yugoo90/Repos/StoreInventoryDB/build/CMakeFiles/install/local.dir
+C:/Users/yugoo90/Repos/StoreInventoryDB/build/CMakeFiles/install/strip.dir
+C:/Users/yugoo90/Repos/StoreInventoryDB/build/CMakeFiles/StoreInventory_autogen_timestamp_deps.dir
+C:/Users/yugoo90/Repos/StoreInventoryDB/build/CMakeFiles/StoreInventory_autogen.dir
